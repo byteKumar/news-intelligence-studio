@@ -1,0 +1,246 @@
+{
+  "analysis": {
+    "prediction": "FAKE",
+    "confidence": 0.9948539923765333,
+    "margin": -5.264374789767025,
+    "class_probabilities": [
+      {
+        "label": "FAKE",
+        "probability": 0.9948539923765333
+      },
+      {
+        "label": "REAL",
+        "probability": 0.005146007623466737
+      }
+    ],
+    "topic": {
+      "topic_id": 0,
+      "topic_name": "Politics / Entertainment \u2014 trump, donald, donald trump, president",
+      "score": 0.07093797601374642,
+      "matched_words": [
+        "trump",
+        "donald",
+        "president"
+      ],
+      "top_topics": [
+        {
+          "topic_id": 0,
+          "topic_name": "Politics / Entertainment \u2014 trump, donald, donald trump, president",
+          "probability": 0.07093797601374642
+        },
+        {
+          "topic_id": 1,
+          "topic_name": "Parenting / Parents \u2014 best, kids, love, ways",
+          "probability": 0.03437887273022519
+        },
+        {
+          "topic_id": 5,
+          "topic_name": "Politics / Black Voices \u2014 obama, president, america, president obama",
+          "probability": 0.034255691796512104
+        },
+        {
+          "topic_id": 11,
+          "topic_name": "Healthy Living / Fifty \u2014 things, know, things know, sleep",
+          "probability": 0.030559222639246517
+        },
+        {
+          "topic_id": 10,
+          "topic_name": "Entertainment / Parenting \u2014 life, real, living, work",
+          "probability": 0.009741274908541332
+        }
+      ],
+      "confidence_gap": 0.03655910328352123,
+      "model_type": "nmf"
+    },
+    "summary": "As our Country rapidly grows stronger and smarter, I want to wish all of my friends, supporters, enemies, haters, and even the very dishonest Fake News Media, a Happy and Healthy New Year, President Angry Pants tweeted. As our Country rapidly grows stronger and smarter, I want to wish all of my friends, supporters, enemies, haters, and even the very dishonest Fake News Media, a Happy and Healthy New Year. Koren pollitt (@Korencarpenter) December 31, 2017Here s Trump s New Year s Eve tweet from 2016.Happy New Year to all, including to my many enemies and those who have fought me and lost so badly they just don t know what to do.",
+    "explanation": {
+      "fake_terms": [
+        {
+          "term": "just",
+          "contribution": -0.4598
+        },
+        {
+          "term": "america",
+          "contribution": -0.4358
+        },
+        {
+          "term": "new year",
+          "contribution": -0.433
+        },
+        {
+          "term": "trump",
+          "contribution": -0.4031
+        },
+        {
+          "term": "breaking",
+          "contribution": -0.3699
+        },
+        {
+          "term": "getty",
+          "contribution": -0.3318
+        },
+        {
+          "term": "getty images",
+          "contribution": -0.3073
+        },
+        {
+          "term": "great",
+          "contribution": -0.2896
+        },
+        {
+          "term": "news",
+          "contribution": -0.2824
+        },
+        {
+          "term": "com",
+          "contribution": -0.2711
+        }
+      ],
+      "real_terms": [
+        {
+          "term": "2018",
+          "contribution": 0.217
+        },
+        {
+          "term": "year",
+          "contribution": 0.2029
+        },
+        {
+          "term": "roy",
+          "contribution": 0.1797
+        },
+        {
+          "term": "news media",
+          "contribution": 0.1421
+        },
+        {
+          "term": "healthy",
+          "contribution": 0.1406
+        },
+        {
+          "term": "anniversary",
+          "contribution": 0.1019
+        },
+        {
+          "term": "just don",
+          "contribution": 0.0878
+        },
+        {
+          "term": "new",
+          "contribution": 0.0784
+        },
+        {
+          "term": "supporters",
+          "contribution": 0.0734
+        },
+        {
+          "term": "trump new",
+          "contribution": 0.067
+        }
+      ]
+    }
+  },
+  "verification": {
+    "headline": " Donald Trump Sends Out Embarrassing New Year\u2019s Eve Message; This is Disturbing",
+    "summary": "Trump (@realDonaldTrump) December 31, 2016This is nothing new for Trump. He s been doing this for years.Trump has directed messages to his enemies and haters for New Year s, Easter, Thanksgiving, and the anniversary of 9/11. Marlene (@marlene399) December 31, 2017You can t just say happy new year?",
+    "claims": [
+      {
+        "claim": "Koren pollitt (@Korencarpenter) December 31, 2017Here s Trump s New Year s Eve tweet from 2016.Happy New Year to all, including to my many enemies and those who have fought me and lost so badly they just don t know what to do.",
+        "claim_score": 2.85,
+        "verdict": {
+          "label": "NOT ENOUGH EVIDENCE",
+          "confidence": 0.22,
+          "rationale": "Retrieved evidence is too weak or incomplete to confidently support or refute the claim."
+        },
+        "evidence": [
+          {
+            "doc_id": "doc_000009",
+            "title": "Trump on Twitter (Dec 28) - Global Warming",
+            "passage": "the following statements were posted to the verified twitter accounts of u s president donald trump realdonaldtrump and potus the opinions expressed are his own reuters has not edited the statements or confirmed their accuracy realdonaldtrump together we are making america great again bit ly lnpkaq est in the east it could be the coldest new year s eve on record perhaps we could use a little bit of that good old global warming that our country but not other countries was going to pay trillions of dollars to protect against bundle up est source link bit ly jbh lu bit ly jpexyr",
+            "source": "kaggle",
+            "score": 0.09589750520371611
+          },
+          {
+            "doc_id": "doc_003409",
+            "title": "Comedian Kathy Griffin says her career is over after gory Trump photo",
+            "passage": "los angeles reuters comedian kathy griffin tearfully apologized in a friday press conference for posing with a fake bloodied and severed head depicting u s president donald trump saying that she felt her career was now over and that trump broke her griffin has lost sponsorships and jobs including her role as co host of cnn s new year s eve coverage with journalist anderson cooper since a photograph and video from the shoot appeared on social media on tuesday president trump said the image of griffin with the gory mask resembling him was sick and that it had traumatized his family especially his youngest son year old barron trump s oldest son donald jr called for employers to drop the\u2026",
+            "source": "kaggle",
+            "score": 0.09514682099133762
+          },
+          {
+            "doc_id": "doc_003476",
+            "title": "Kathy Griffin loses CNN deal after photos with fake severed Trump head",
+            "passage": "los angeles reuters cnn fired comedian kathy griffin from its annual new year s eve broadcast on wednesday after she drew strong criticism for posing in photographs holding up the likeness of a bloody severed head resembling u s president donald trump the network announced the termination after earlier criticizing the photos as disgusting and offensive griffin posted a videotaped apology on tuesday night amid a public outcry from republicans and democrats alike over the images including condemnation from trump kathy griffin should be ashamed of herself trump wrote my children especially my year old son barron are having a hard time with this sick the u s secret service responsible for\u2026",
+            "source": "kaggle",
+            "score": 0.08302599513723728
+          }
+        ]
+      },
+      {
+        "claim": "Wendy (@WendyWhistles) December 31, 2017he s a fucking 5 year old Who Knows (@rainyday80) December 31, 2017So, to all the people who voted for this a hole thinking he would change once he got into power, you were wrong!",
+        "claim_score": 2.85,
+        "verdict": {
+          "label": "NOT ENOUGH EVIDENCE",
+          "confidence": 0.22,
+          "rationale": "Retrieved evidence is too weak or incomplete to confidently support or refute the claim."
+        },
+        "evidence": [
+          {
+            "doc_id": "doc_002340",
+            "title": "Russia U.N. envoy says U.S. sanctions will not change Moscow",
+            "passage": "united nations reuters new u s sanctions imposed on russia are inevitably harming bilateral relations but will not change russian policy russia s united nations ambassador vassily nebenzia said on wednesday some u s officials were saying that this is a bill that might encourage russia to cooperate with the united states to me that s a strange sort of encouragement he told reporters those who invented this bill if they were thinking they might change our policy they were wrong they should have known better that we do not bend we do not break he said it is harming our relations inevitably but we will be working in the conditions that exist in the hope it will turn one day",
+            "source": "kaggle",
+            "score": 0.08468692991611976
+          },
+          {
+            "doc_id": "doc_002884",
+            "title": "Before Putin talks, Trump plays down interference in U.S. election",
+            "passage": "warsaw reuters one day before his first meeting with russian president vladimir putin u s president donald trump said on thursday that no one knows for sure whether moscow intervened in the u s election but that he suspected russian involvement speaking to reporters in poland trump played down the assessment of his own intelligence agencies that russia meddled in the election by hacking democrats emails and distributing online propaganda i think it was russia but i think it was probably other people and or countries and i see nothing wrong with that statement nobody really knows nobody really knows for sure trump told a news conference investigations by a special counsel robert mueller and\u2026",
+            "source": "kaggle",
+            "score": 0.08267647343221608
+          },
+          {
+            "doc_id": "doc_001943",
+            "title": "Factbox: Trump on Twitter (Aug 31) -  Texas",
+            "passage": "the following statements were posted to the verified twitter accounts of u s president donald trump realdonaldtrump and potus the opinions expressed are his own reuters has not edited the statements or confirmed their accuracy realdonaldtrump thank you to all of the incredible heroes in texas america is with you texasstrong edt source link bit ly jbh lu bit ly jpexyr",
+            "source": "kaggle",
+            "score": 0.06575989617608019
+          }
+        ]
+      },
+      {
+        "claim": "He s been doing this for years.Trump has directed messages to his enemies and haters for New Year s, Easter, Thanksgiving, and the anniversary of 9/11.",
+        "claim_score": 2.4055555555555554,
+        "verdict": {
+          "label": "NOT ENOUGH EVIDENCE",
+          "confidence": 0.31011732118892266,
+          "rationale": "Retrieved evidence is too weak or incomplete to confidently support or refute the claim."
+        },
+        "evidence": [
+          {
+            "doc_id": "doc_000412",
+            "title": "Flynn prepared to testify Trump directed him to contact Russians: ABC",
+            "passage": "washington reuters michael flynn former national security adviser to president donald trump is prepared to testify that trump directed him to make contact with russians when he was a presidential candidate abc news reported on friday reuters has not verified the abc news report which cited a flynn confidant",
+            "source": "kaggle",
+            "score": 0.11872532162573823
+          },
+          {
+            "doc_id": "doc_004904",
+            "title": "Government leakers are 'enemies to our state,' White House official says",
+            "passage": "washington reuters individuals who steal classified information from the u s government are enemies to our state and must be punished forcefully the white house s homeland security adviser said on wednesday tom bossert in remarks that were among the first he has made publicly since becoming the white house homeland security adviser characterized cyber security in the u s government and around the world as being in general disarray we need to find the people who do it and hold them accountable and be absolutely unwavering in doing so bossert said in remarks at the center for strategic and international studies think tank in washington d c people who have taken things that they should not\u2026",
+            "source": "kaggle",
+            "score": 0.07101189512624514
+          },
+          {
+            "doc_id": "doc_000565",
+            "title": "Trump pardons turkey in annual Thanksgiving tradition",
+            "passage": "washington reuters president donald trump who has raised eyebrows by mulling his power to pardon as investigators probe possible ties between his election campaign and russia used his authority in a less controversial way on tuesday to pardon a thanksgiving turkey joined by his wife melania and their son barron trump entered the rose garden for the annual presidential tradition and granted freedom to a large white bird named drumstick americans traditionally feast on turkey stuffing and other delights on the thanksgiving holiday which takes place this coming thursday but drumstick and his pal wishbone were granted a reprieve i m pleased to report that unlike millions of other turkeys at\u2026",
+            "source": "kaggle",
+            "score": 0.0700567011510223
+          }
+        ]
+      }
+    ],
+    "corpus_size": 5000
+  }
+}

@@ -1,0 +1,109 @@
+topic_id,topic_name,rank_within_topic,subject,title,topic_score
+0,"Politics / Entertainment — trump, donald, donald trump, president",1,COMEDY,You Can Be Donald Trump too,0.2139529229584597
+0,"Politics / Entertainment — trump, donald, donald trump, president",2,ENTERTAINMENT,So Now Donald Trump Is Even Ripping 'Celebrity Apprentice',0.1643000776802936
+0,"Politics / Entertainment — trump, donald, donald trump, president",3,ENTERTAINMENT,Mark Hamill Says Donald Trump's Appointees Are 'Really Despicable People',0.16175184498149342
+0,"Politics / Entertainment — trump, donald, donald trump, president",4,POLITICS,Donald Trump: 'Nobody Has More Respect For Women Than Donald Trump',0.16165760898632295
+0,"Politics / Entertainment — trump, donald, donald trump, president",5,POLITICS,"If You Think Donald Trump Is Dropping Out, You Don't Understand Donald Trump",0.1613412328561467
+0,"Politics / Entertainment — trump, donald, donald trump, president",6,POLITICS,These Are The People Donald Trump Doesn’t Want To Let In,0.16129417131233376
+1,"Style & Beauty — style, wedding, photo, huffpost",1,STYLE & BEAUTY,Irina Shayk Almost Bares Too Much Cleavage At UEFA Event (PHOTOS),0.1093122508612896
+1,"Style & Beauty — style, wedding, photo, huffpost",2,STYLE & BEAUTY,Naomi Watts' Dress Is Patterned Perfection (PHOTOS),0.10709044566304467
+1,"Style & Beauty — style, wedding, photo, huffpost",3,STYLE & BEAUTY,Sofia Vergara Golden Globes Dress 2013: See Her Red Carpet Look! (PHOTOS),0.10708438490945232
+1,"Style & Beauty — style, wedding, photo, huffpost",4,STYLE & BEAUTY,Debra Messing Golden Globes Dress 2013: See Her Red Carpet Look! (PHOTOS),0.10693308017146448
+1,"Style & Beauty — style, wedding, photo, huffpost",5,STYLE & BEAUTY,"Cindy Crawford Covers Muse Magazine Without Pants (PHOTO, GIF)",0.1035539109181094
+1,"Style & Beauty — style, wedding, photo, huffpost",6,STYLE & BEAUTY,Carly Rae Jepsen's Grammys Dress 2013 Is Kind Of A Bummer (PHOTOS),0.10279510854273087
+2,"Politics / Latino Voices — clinton, hillary, hillary clinton, sanders",1,POLITICS,Support For Hillary Clinton Slips,0.2977191421317189
+2,"Politics / Latino Voices — clinton, hillary, hillary clinton, sanders",2,POLITICS,"Bill And Hillary Clinton Might Be Grandparents Really, Really Soon",0.2802044239423518
+2,"Politics / Latino Voices — clinton, hillary, hillary clinton, sanders",3,LATINO VOICES,Latinas/os Will Coronate President Hillary Clinton,0.27765612310514626
+2,"Politics / Latino Voices — clinton, hillary, hillary clinton, sanders",4,ENTERTAINMENT,Hillary Clinton And Her People Did The Mannequin Challenge,0.26138657132604276
+2,"Politics / Latino Voices — clinton, hillary, hillary clinton, sanders",5,POLITICS,Hillary Clinton Doesn't Trust You,0.2610592358996092
+2,"Politics / Latino Voices — clinton, hillary, hillary clinton, sanders",6,POLITICS,Hillary Clinton Starts 2016 Better Positioned Than 2008,0.2536470629103557
+3,"Politics — white, house, white house, trump",1,POLITICS,Winging Their Way to the White House?,0.2526409643684155
+3,"Politics — white, house, white house, trump",2,POLITICS,White House Lockdown Lifted After Suspicious Object Thrown Over Fence,0.2504774773844584
+3,"Politics — white, house, white house, trump",3,POLITICS,Twitter Claps Back At Trump 'Withdrawing' Steph Curry's White House Invite,0.24262584862846154
+3,"Politics — white, house, white house, trump",4,POLITICS,See Photos From The 2015 White House Correspondents' Dinner,0.2309178652992203
+3,"Politics — white, house, white house, trump",5,POLITICS,See R2-D2 And Stormtroopers Discover The White House,0.2048333046650723
+3,"Politics — white, house, white house, trump",6,POLITICS,White House Does Not Dismiss Idea Of Castro Visit,0.19084524337393333
+4,"Travel / Sports — best, worst, best way, world best",1,TRAVEL,These Are The 25 Best Sunsets Around,0.32542747316700255
+4,"Travel / Sports — best, worst, best way, world best",2,SPORTS,The Best Boxing Knockouts Of 2014,0.32542747316700255
+4,"Travel / Sports — best, worst, best way, world best",3,FOOD & DRINK,Molecular Gastronomy: The Best In The U.S.,0.24094025260106972
+4,"Travel / Sports — best, worst, best way, world best",4,STYLE,The Best Chambray Shirts For Summer,0.20817854984451628
+4,"Travel / Sports — best, worst, best way, world best",5,TASTE,Want A Veggie Spiralizer? Here's A Deal On The Best One.,0.2023704401360732
+4,"Travel / Sports — best, worst, best way, world best",6,WOMEN,The 22 Best F-Bombs From Female Authors,0.18966782737112575
+5,"Parents / Politics — day, mother, mother day, recipe",1,POLITICS,Just One Day Without Trump's Name,0.23357809644473287
+5,"Parents / Politics — day, mother, mother day, recipe",2,HOME & LIVING,8 Charming Vase Crafts You Can Make For Mother's Day 2013 (PHOTOS),0.1553976907322166
+5,"Parents / Politics — day, mother, mother day, recipe",3,LATINO VOICES,This Video Of Rita Moreno Being Delightful Will Make Your Day,0.1542087038994862
+5,"Parents / Politics — day, mother, mother day, recipe",4,PARENTS,This Is Why We Don't Take Second-Day-Of-School Photos,0.14769508489071692
+5,"Parents / Politics — day, mother, mother day, recipe",5,ARTS,These Radically Colorful Photographs Will Brighten Your Day,0.14654444171265943
+5,"Parents / Politics — day, mother, mother day, recipe",6,PARENTS,How To #HonorAllMoms This Mother's Day,0.14339476733923276
+6,"Travel / Healthy Living — world, cup, world cup, war",1,HEALTHY LIVING,How to Be Happy in a World of Turmoil,0.18792179746926133
+6,"Travel / Healthy Living — world, cup, world cup, war",2,QUEER VOICES,What Would It Be Like To Live In A World Without Binaries?,0.18095158836442377
+6,"Travel / Healthy Living — world, cup, world cup, war",3,ARTS,10 Innovative Writers Who Are Shaking Up The Book World,0.17820856180819863
+6,"Travel / Healthy Living — world, cup, world cup, war",4,TRAVEL,The 10 Worst Airports In The World,0.17699140527870003
+6,"Travel / Healthy Living — world, cup, world cup, war",5,TRAVEL,These Are The Busiest Flight Routes In The World,0.16629094808101505
+6,"Travel / Healthy Living — world, cup, world cup, war",6,TRAVEL,In Cairo For The End Of The World,0.16148269266015086
+7,"Women / Healthy Living — women, men, woman, female",1,HEALTHY LIVING,Women's Periods Don't Really Sync Up When They Live Together,0.22857237111389195
+7,"Women / Healthy Living — women, men, woman, female",2,QUEER VOICES,Why Did The U.S. Lock Up These Women With Men?,0.2214790486552793
+7,"Women / Healthy Living — women, men, woman, female",3,WOMEN,All The Women I Have Been,0.1963684900118619
+7,"Women / Healthy Living — women, men, woman, female",4,WOMEN,"On (White) #WomenBoycottTwitter  And #MeToo, From A White Woman To White Women",0.18018365982641527
+7,"Women / Healthy Living — women, men, woman, female",5,WOMEN,Ava DuVernay: Women Need To Find 'New Ways To Work Without Permission',0.1739935719556246
+7,"Women / Healthy Living — women, men, woman, female",6,HEALTHY LIVING,Oral HPV Affects More Men Than Women,0.16469554234929099
+8,"Politics / Wellness — health, care, health care, gop",1,POLITICS,The GOP’s No-Care Health Care Plan,0.19943277850552485
+8,"Politics / Wellness — health, care, health care, gop",2,WELLNESS,Less Equals More: Cures to Health Care Overspending,0.16986148562474232
+8,"Politics / Wellness — health, care, health care, gop",3,HEALTHY LIVING,Trading Health Care For Hail Marys: How The American Health Care Act Abandons Those With Substance Use Disorders,0.16964849286442626
+8,"Politics / Wellness — health, care, health care, gop",4,POLITICS,In Sickness And (For The Wealthy) In Health,0.16909988257049244
+8,"Politics / Wellness — health, care, health care, gop",5,WELLNESS,Paper-Centered Care,0.1666306483908053
+8,"Politics / Wellness — health, care, health care, gop",6,POLITICS,Senate Republicans Report New Life On Their Health Care Bill,0.16593472644271748
+9,"Green / Entertainment — life, living, real, lessons",1,ENTERTAINMENT,Iggy Azalea: 'Most Of You Have Done NOTHING' With Your Life,0.3633616216086546
+9,"Green / Entertainment — life, living, real, lessons",2,WELLNESS,Trusting the Synchronicity of Life,0.19733959417316313
+9,"Green / Entertainment — life, living, real, lessons",3,PARENTING,Life After Baby: Invincible Me?,0.1903120008490082
+9,"Green / Entertainment — life, living, real, lessons",4,GREEN,"Life on the Lake: ""The Encounter""",0.18706671685547513
+9,"Green / Entertainment — life, living, real, lessons",5,GREEN,Life On The Lake...An Overview,0.18706671685547513
+9,"Green / Entertainment — life, living, real, lessons",6,WORLDPOST,"Once a Rafter, Always a Rafter: Iliana Hernandez Runs for Her Life",0.18039952267609766
+10,"Parenting / Divorce — kids, parents, children, school",1,DIVORCE,10 Things All Divorcing Parents Should Say To Their Kids,0.1704841775653146
+10,"Parenting / Divorce — kids, parents, children, school",2,PARENTING,Don't Call Us Great Parents Just Because We Have a Child With Disabilities,0.1621446953515299
+10,"Parenting / Divorce — kids, parents, children, school",3,DIVORCE,How To Tell Your Kids You're Divorcing,0.16045303588055293
+10,"Parenting / Divorce — kids, parents, children, school",4,PARENTING,The Time To Show Up Is Now,0.15995374941431864
+10,"Parenting / Divorce — kids, parents, children, school",5,PARENTING,Do Parents Today Take Too Many Photos of Their Kids?,0.15897749452793353
+10,"Parenting / Divorce — kids, parents, children, school",6,PARENTING,6 Ways for Parents to Teach Kids About Grit,0.15629091449005003
+11,"Healthy Living / Food & Drink — things, know, things know, did",1,FIFTY,11 Things You Should Never Do Again After 50,0.3083752149127715
+11,"Healthy Living / Food & Drink — things, know, things know, did",2,HEALTHY LIVING,"Everything You Need To Know About Nut, Seed And Grain Milks",0.29068220957806257
+11,"Healthy Living / Food & Drink — things, know, things know, did",3,FOOD & DRINK,7 Things You Need to Know About Made-From-Scratch Barbecue Rubs,0.281081313673684
+11,"Healthy Living / Food & Drink — things, know, things know, did",4,FOOD & DRINK,10 Things to Do With a Can of Tomatoes,0.2581395355438226
+11,"Healthy Living / Food & Drink — things, know, things know, did",5,HEALTHY LIVING,8 Things You Should Know About Sleep And Pain,0.24229855422076363
+11,"Healthy Living / Food & Drink — things, know, things know, did",6,WELLNESS,5 Things You Should Know About Stretching And Mobility,0.24046053310400148
+12,"Style & Beauty / Food & Drink — week, fashion, fashion week, watch",1,FOOD & DRINK,Relent To These Lentils,0.31215453120309783
+12,"Style & Beauty / Food & Drink — week, fashion, fashion week, watch",2,STYLE,This Supermodel Just Made Our Week With A $17 Skirt,0.31215453120309783
+12,"Style & Beauty / Food & Drink — week, fashion, fashion week, watch",3,STYLE & BEAUTY,Men in Milano for Fashion Week,0.22604746724365485
+12,"Style & Beauty / Food & Drink — week, fashion, fashion week, watch",4,STYLE & BEAUTY,"Get The Fashion Week Trend: Dripping-Wet Metallics, Sequins And Satins",0.20715027576664535
+12,"Style & Beauty / Food & Drink — week, fashion, fashion week, watch",5,HEALTHY LIVING,How To Feel More Relaxed This Week,0.20682055099652916
+12,"Style & Beauty / Food & Drink — week, fashion, fashion week, watch",6,QUEER VOICES,Williamsburg Is About To Get A Whole Lot Gayer Next Week,0.20471946029854632
+13,"Food & Drink / Healthy Living — ways, good, way, home",1,HEALTHY LIVING,3 Ways Introverts Can Communicate Better With Extroverts,0.15062350827341642
+13,"Food & Drink / Healthy Living — ways, good, way, home",2,FOOD & DRINK,Ramen Recipes: Other Delicious Ways To Use The Packaged Noodles (PHOTOS),0.12544231325791935
+13,"Food & Drink / Healthy Living — ways, good, way, home",3,FOOD & DRINK,8 Ways To Use Up Buttermilk,0.1238760851960397
+13,"Food & Drink / Healthy Living — ways, good, way, home",4,STYLE & BEAUTY,6 Ways to Do Turtlenecks Right,0.12375620691275933
+13,"Food & Drink / Healthy Living — ways, good, way, home",5,HOME & LIVING,Weekend DIY Ideas: 7 Easy Ways To Fix Up Your Home In 2 Days (PHOTOS),0.1197746228442502
+13,"Food & Drink / Healthy Living — ways, good, way, home",6,WELLNESS,Why Procrastination Is Good for You: 5 Ways to Make it Work,0.11783305216569918
+14,"Politics / Parenting — court, supreme, supreme court, justice",1,POLITICS,Trump Reacts To Brett Kavanaugh’s Supreme Court Confirmation,0.2738142031952278
+14,"Politics / Parenting — court, supreme, supreme court, justice",2,POLITICS,Ruth Bader Ginsburg Returns To Work At The Supreme Court,0.2651046412506628
+14,"Politics / Parenting — court, supreme, supreme court, justice",3,POLITICS,The Supreme Court in 2025,0.25986761664972063
+14,"Politics / Parenting — court, supreme, supreme court, justice",4,POLITICS,Donald Trump's Supreme Court Appointee To Be Sworn In,0.2554929146699651
+14,"Politics / Parenting — court, supreme, supreme court, justice",5,POLITICS,Republicans Don’t Own The Supreme Court,0.24303778704854306
+14,"Politics / Parenting — court, supreme, supreme court, justice",6,PARENTING,Only One Supreme Court Justice Is A Mother -- Does It Matter?,0.2395305297878951
+15,"Weird News / Food & Drink — love, hate, fall, gay",1,WEIRD NEWS,Brew Do You Love?,0.33989613174520383
+15,"Weird News / Food & Drink — love, hate, fall, gay",2,FOOD & DRINK,A Love Letter To Cilantro,0.20232929530265234
+15,"Weird News / Food & Drink — love, hate, fall, gay",3,HEALTHY LIVING,Love Begets Love,0.20095976030937707
+15,"Weird News / Food & Drink — love, hate, fall, gay",4,SCIENCE,Where You Look Shows Whether You're In Love—Or Just Lusting,0.18491037046029402
+15,"Weird News / Food & Drink — love, hate, fall, gay",5,WELLNESS,Pleasurable Love Education 101,0.18415756649335796
+15,"Weird News / Food & Drink — love, hate, fall, gay",6,THE WORLDPOST,Love Is Love Is Love Is Love. But Hate And Fear Are Powerful,0.18390046488027914
+16,"Black Voices / Latino Voices — man, america, black, police",1,BLACK VOICES,Black Man With Asthma Dies During Police Traffic Stop,0.13943970340020787
+16,"Black Voices / Latino Voices — man, america, black, police",2,BLACK VOICES,Investigation Underway For Fatal LAPD Shooting Of 18-Year-Old Black Man,0.13934747094857508
+16,"Black Voices / Latino Voices — man, america, black, police",3,LATINO VOICES,Police killings of Latinos spark less outrage than when victims are black,0.13177970023796898
+16,"Black Voices / Latino Voices — man, america, black, police",4,POLITICS,The 'Perfect Crime' in America Is Killing an Unarmed Black Man and Claiming Self-Defense,0.12791894104304674
+16,"Black Voices / Latino Voices — man, america, black, police",5,BUSINESS,Budweiser's Just Gonna Call Itself 'America' For A While,0.12000455763979997
+16,"Black Voices / Latino Voices — man, america, black, police",6,BLACK VOICES,10 Must-See Black Landmarks At Your Fingertips,0.11844664818113164
+17,"Environment / Politics — change, obama, climate, climate change",1,MEDIA,Maddow: Is Obama Being Hypocritical On Climate Change?,0.27078495294956567
+17,"Environment / Politics — change, obama, climate, climate change",2,ENVIRONMENT,Time Is Ticking For Obama's Climate Agenda,0.23108751046161863
+17,"Environment / Politics — change, obama, climate, climate change",3,GREEN,"Climate Change This Week: Mega Methane, Tidal Power, and More",0.21828140097091742
+17,"Environment / Politics — change, obama, climate, climate change",4,ENVIRONMENT,State Department Keystone XL Pipeline Analysis Disspirits Climate Change Community,0.21060422638002946
+17,"Environment / Politics — change, obama, climate, climate change",5,POLITICS,Here's What Conservative Intellectuals Think About Climate Change,0.207600624306319
+17,"Environment / Politics — change, obama, climate, climate change",6,POLITICS,Obama: Climate Change Trends Are 'Terrifying',0.19760753154105007

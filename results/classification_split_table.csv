@@ -1,0 +1,4 @@
+split,rows,fake_rows,real_rows
+train,15400,7700,7700
+validation,3300,1650,1650
+test,3300,1650,1650

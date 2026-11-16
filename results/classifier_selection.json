@@ -1,0 +1,16 @@
+{
+  "selected_model": "linear_svc",
+  "selection_reason": "Highest validation macro F1, with weighted F1 and accuracy as secondary checks. Speed is shown for context but not used as the main criterion.",
+  "selected_row": {
+    "model_name": "linear_svc",
+    "accuracy": 0.9760606061,
+    "precision_weighted": 0.9760607809,
+    "recall_weighted": 0.9760606061,
+    "f1_weighted": 0.9760606039,
+    "precision_macro": 0.9760607809,
+    "recall_macro": 0.9760606061,
+    "f1_macro": 0.9760606039,
+    "train_time_sec": 12.1552,
+    "predict_time_ms_per_article": 0.2499
+  }
+}

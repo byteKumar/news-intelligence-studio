@@ -1,0 +1,18 @@
+{
+  "best_model_name": "linear_svc",
+  "test_metrics": {
+    "accuracy": 0.9784848484848485,
+    "precision_weighted": 0.9785483033746624,
+    "recall_weighted": 0.9784848484848485,
+    "f1_weighted": 0.9784841352408468,
+    "precision_macro": 0.9785483033746623,
+    "recall_macro": 0.9784848484848485,
+    "f1_macro": 0.9784841352408469
+  },
+  "splits": {
+    "train_rows": 15400,
+    "validation_rows": 3300,
+    "test_rows": 3300
+  },
+  "selection_reason": "Highest validation macro F1, with weighted F1 and accuracy as secondary checks. Speed is shown for context but not used as the main criterion."
+}

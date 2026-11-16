@@ -1,0 +1,11 @@
+# Datasets are not redistributed (see README "Datasets")
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,73 @@
+{
+  "classification_rows": 22000,
+  "topic_rows": 21973,
+  "classification_source_breakdown": {
+    "kaggle_fake_real": 18369,
+    "news_category_real_boost": 3488,
+    "fakenewsnet": 143
+  },
+  "classification_label_balance": {
+    "REAL": 11000,
+    "FAKE": 11000
+  },
+  "topic_category_top20": {
+    "POLITICS": 3740,
+    "WELLNESS": 1886,
+    "ENTERTAINMENT": 1824,
+    "TRAVEL": 1040,
+    "STYLE & BEAUTY": 1030,
+    "PARENTING": 921,
+    "HEALTHY LIVING": 701,
+    "QUEER VOICES": 666,
+    "FOOD & DRINK": 666,
+    "BUSINESS": 628,
+    "COMEDY": 560,
+    "SPORTS": 533,
+    "BLACK VOICES": 482,
+    "HOME & LIVING": 454,
+    "PARENTS": 408,
+    "THE WORLDPOST": 385,
+    "WEDDINGS": 384,
+    "CRIME": 374,
+    "WOMEN": 368,
+    "IMPACT": 366
+  },
+  "column_explanations": {
+    "title": "Headline of the article.",
+    "text": "Article body or best available descriptive text.",
+    "subject": "Original subject/category from the source dataset.",
+    "date": "Original date string if available.",
+    "label": "Target label, FAKE or REAL.",
+    "dataset_source": "Which raw dataset contributed the row.",
+    "source_group": "A finer source or category grouping.",
+    "combined_text": "Title and text joined for modeling.",
+    "word_count": "Approximate token count of combined_text."
+  },
+  "raw_data_locations": {
+    "kaggle_fake_real": "data/raw/kaggle_fake_real/Fake.csv and True.csv",
+    "fakenewsnet": "data/raw/fakenewsnet/*.csv",
+    "news_category": "data/raw/news_category/News_Category_Dataset_v3.json"
+  },
+  "selection_policy": {
+    "classifier": "Choose the model with the best validation macro F1, then weighted F1, then accuracy. Speed is shown but only used as a late tie-breaker.",
+    "topic_model": "Choose the topic model with the highest quality score based on coherence and topic diversity. Training time is shown separately but is not the main criterion."
+  },
+  "dataset_profile": {
+    "kaggle_fake_real": {
+      "rows": 44898,
+      "fake_rows": 23481,
+      "real_rows": 21417,
+      "subjects": 8
+    },
+    "fakenewsnet": {
+      "rows": 422,
+      "fake_rows": 211,
+      "real_rows": 211,
+      "source_groups": 4
+    },
+    "news_category": {
+      "rows": 209527,
+      "categories": 42
+    }
+  }
+}

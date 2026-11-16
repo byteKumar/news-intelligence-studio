@@ -1,0 +1,16 @@
+{
+  "selected_model": "nmf",
+  "selection_reason": "Chosen by the highest topic-model quality score, which prioritizes coherence and topic diversity over runtime.",
+  "n_topics": 18,
+  "selected_row": {
+    "model_name": "nmf",
+    "coherence_proxy": -3.2836652459,
+    "topic_diversity": 0.9111111111,
+    "avg_topic_confidence": 0.0461280321,
+    "train_time_sec": 3.6147,
+    "coherence_norm": 0.9934921098,
+    "diversity_norm": 0.6829268293,
+    "confidence_norm": 0.0,
+    "quality_score": 0.7668
+  }
+}

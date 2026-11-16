@@ -1,0 +1,30 @@
+{
+  "classifier_rows_used": 22000,
+  "extra_real_rows_requested": 10000,
+  "topic_rows_used": 21973,
+  "n_topics": 18,
+  "best_model": "linear_svc",
+  "best_topic_model": "nmf",
+  "test_f1_weighted": 0.9784841352408468,
+  "test_f1_macro": 0.9784841352408469,
+  "classifier_selection_reason": "Highest validation macro F1, with weighted F1 and accuracy as secondary checks. Speed is shown for context but not used as the main criterion.",
+  "topic_selection_reason": "Chosen by the highest topic-model quality score, which prioritizes coherence and topic diversity over runtime.",
+  "raw_data_profile": {
+    "kaggle_fake_real": {
+      "rows": 44898,
+      "fake_rows": 23481,
+      "real_rows": 21417,
+      "subjects": 8
+    },
+    "fakenewsnet": {
+      "rows": 422,
+      "fake_rows": 211,
+      "real_rows": 211,
+      "source_groups": 4
+    },
+    "news_category": {
+      "rows": 209527,
+      "categories": 42
+    }
+  }
+}
